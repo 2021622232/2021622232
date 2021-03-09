@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 自我介绍
+
+个人比较喜欢一些与科技、互联网有关的东西，会经常了解一些互联网的新闻，有Java基础，在学习Android
+
+联系方式：3285205645@qq.com
