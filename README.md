@@ -1,22 +1,9 @@
-### Hi there 👋
-
-<!--
-**2021622232/2021622232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## 自我介绍
 
-个人比较喜欢一些与科技、互联网有关的东西，会经常了解一些互联网的新闻，有Java基础，在学习Android
+姓名：柚麟羽
+
+专业：软件工程
+
+简介：个人比较喜欢一些与科技、互联网有关的东西，会经常了解一些互联网的新闻，有Java基础，在学习Android
 
 联系方式：3285205645@qq.com
